@@ -5,6 +5,6 @@
 
     gameNode: {
         socketioPort: 80,
-        origin: 'http://www.jigoku.online:* https://www.jigoku.online:* '
+        origin: 'http://ringteki-test.herokuapp.com:* https://ringteki-test.herokuapp.com:* '
     }
 }
